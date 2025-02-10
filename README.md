@@ -51,15 +51,12 @@ Play as an Eggplant seeking to collect pieces of dreams while competing against 
 
 3. **AI System:**
    - Target acquisition logic
-   - Path finding implementation
-   - Dynamic response to player actions
    - Competitive behavior patterns
 
 4. **Item System:**
    - Procedural spawn point generation
    - Movement vector calculations
    - Collision response
-   - Score tracking
 
 ### Asset Development
 
@@ -79,35 +76,20 @@ Play as an Eggplant seeking to collect pieces of dreams while competing against 
   - Integration of "Retro sounds" package
   - Dynamic audio system implementation
 
-## 🎵 Audio Features
-
-- **Background Music:**
-  - Multiple themed tracks for different game states
-  - Traditional Japanese-inspired compositions
-  - Dynamic transition system
-
-- **Sound Effects:**
-  - Retro-style game effects
-  - Action response sounds
-  - UI interaction audio
-
 ## 🚀 Setup & Installation
 
 1. **Requirements:**
    - Windows-compatible system
-   - Unreal Engine 5.4.2 or newer
 
-2. **Development Setup:**
-   - Clone the repository
-   - Open project in Unreal Engine
-   - Build and run
+2. **How to Play:**
+   - Visit [game page on itch.io](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi)
+   - Download the game
+   - Extract the zip file
+   - Run the executable
 
-## 🎮 How to Play
-
-- **Movement:** Use 8-directional controls
-- **Shooting:** Fire projectiles to collect items or hinder opponent
-- **Strategy:** Balance size growth with movement speed
-- **Objective:** Collect more items than the rival Hawk
+For developers interested in the source code:
+- Clone the repository from GitHub
+- Requires Unreal Engine 5.4.2 or newer to open project files
 
 ## 🔍 Development Insights
 
@@ -128,9 +110,6 @@ Play as an Eggplant seeking to collect pieces of dreams while competing against 
 - [Play Game](https://negimakushi.itch.io/1-fuji-2-hawk-3-nasubi)
 - [Source Code](https://github.com/NagareNegishi/Game-jam2)
 
-## 📝 License
-
-Created during Micro Jam 030 and follows standard game jam licensing terms.
 
 ## 👥 Credits
 
